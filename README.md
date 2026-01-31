@@ -1,5 +1,7 @@
 # Supplementary Materials
 
+## Publication Information
+
 These files accompany:
 
 The Paleoindian Database of the Americas (PIDBA) and Early Human Settlement in the Americas: Current Understanding and Future Directions
@@ -11,6 +13,29 @@ David G. Anderson1, D. Shane Miller2, Thaddeus G. Bissett3 J. Christopher Gillam
 
 A paper prepared for inclusion in the PaleoAmerican Odyssey II Conference volume, organized by Michael Waters, Jessi Halligan, and Kurt Rademaker, and to be presented at the Paleoamerican Odyssey II Conference, Santa Fe, New Mexico, October 14–17, 2026.
 
-# Abstract
+## Abstract
 
 Documenting the Late Pleistocene peopling of the Western Hemisphere has generated new discoveries and major changes in understanding, yet key challenges remain. Researchers must deal with threats to sites, such as climate change, erosion, and development, and with evolving legal, ethical, and collaborative frameworks. Enormous amounts of information on the archaeology of these First Peoples now exist—including sites, artifacts, special analytical samples, field and lab records, digital datasets, photographs, and publications, to name just some of what has been gathered. This paper addresses how to ensure broad, ethical access to this information for research, management, and public education purposes in partnership with Indigenous communities and other interested parties. One way is through the Paleoindian Database of the Americas (PIDBA), a collaborative effort to compile artifact and site data that has been under development since the late 1980s. This paper presents the first major update to PIDBA in over a decade, encompassing 87,894 artifacts, and documenting data collection procedures, initial findings, and long-term curation goals. Since PIDBA includes locational, image, and attribute data, along with bibliographic references for diagnostic Paleoindian artifacts, integrating, distributing, and curating such data is a complex task. Fortunately, informatics platforms exist that allow for distributed, open networks linking diverse archaeological datasets and researchers. PIDBA has been connected to one such platform, the Digital Index of North American Archaeology (DINAA) on Open Context. These activities illustrate how collaboratively built linked datasets can help transform our ability to study and interpret early human occupations in the Americas.
+
+## Data
+
+###
+- `PIDBA Locational Database Table 1 21 Jan 2026.xlsx`  
+  The PIDBA locational database updated on January 21st, 2026. 
+
+###
+
+The shapefile used to produce Figures 1-7 is projected using EPSG:4269 - NAD83, however Figures 1 - 7 are reprojected using EPSG:5070 NAD83/CONUS Albers.
+
+- `PIDBA_Figure_Data.dbf`
+  Shapefile dbf used to produce Figures 1-7. 
+- `PIDBA_Figure_Data.prj`
+  Shapefile prj used to produce Figures 1-7.
+- `PIDBA_Figure_Data.shp`
+  Shapefile shp used to produce Figures 1-7.
+- `PIDBA_Figure_Data.shx`
+  Shapefile shx used to produce Figures 1-7. 
+
+
+
+
